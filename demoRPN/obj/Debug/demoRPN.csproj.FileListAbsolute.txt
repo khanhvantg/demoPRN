@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\demoRPN\demoRPN\bin\Debug\demoRPN.exe.config
+C:\Users\Admin\source\repos\demoRPN\demoRPN\bin\Debug\demoRPN.exe
+C:\Users\Admin\source\repos\demoRPN\demoRPN\bin\Debug\demoRPN.pdb
+C:\Users\Admin\source\repos\demoRPN\demoRPN\obj\Debug\demoRPN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\demoRPN\demoRPN\obj\Debug\demoRPN.exe
+C:\Users\Admin\source\repos\demoRPN\demoRPN\obj\Debug\demoRPN.pdb
+C:\Users\Admin\source\repos\demoRPN\demoRPN\obj\Debug\demoRPN.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\demoRPN\demoRPN\obj\Debug\demoRPN.Form1.resources
+C:\Users\Admin\source\repos\demoRPN\demoRPN\obj\Debug\demoRPN.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\demoRPN\demoRPN\obj\Debug\demoRPN.Properties.Resources.resources
